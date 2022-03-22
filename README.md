@@ -11,7 +11,13 @@ How to install pygame:
     * wrong scale when maximized 
 
 (21.03.22|CET 1:10am) V0.2:
-  - Spielfläche hinzugefügt
-  - Fenstergröße angepasst
-  - Marker vorschau hinzugefügt
-  - Spielerfarben Wechsel vorbereitungen
+  - Added play area
+  - Window size adjusted
+  - Marker preview added
+  - Player colours change preparations
+ 
+(22.03.22|CET 11:24pm) V0.3:
+  - icon path update
+  - font path update
+  - play colour switch is now in phase 1.
+      * planned are 2
